@@ -1,0 +1,4 @@
+Input: 222.00, Result: 222.00
+Input: 567.00, Result: 567.00
+Input: 50.00, Result: 50.00
+Input: 123.00, Result: 123.00
